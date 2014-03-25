@@ -1,4 +1,4 @@
 angularjs-crossdomain
 =====================
 
-Allows two AngualrJS sites to communicate on difference domains.
+Allows two AngularJS sites to communicate across different domains.
